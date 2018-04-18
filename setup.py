@@ -6,6 +6,7 @@ setup(
     author = 'Ammad Khalid',
     author_email = 'ammadkhalid12@gmail.com',
     packages = find_packages(),
+    url = 'https://github.com/Ammadkhalid/pscanner',
     install_requires = ['requests'],
     python_requires = '>= 3',
     entry_points = {
